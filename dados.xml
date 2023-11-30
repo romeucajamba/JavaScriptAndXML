@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lista>
+    <cliente>
+    <nome>Romeu</nome>    
+    <apelido>Cajamba</apelido>
+    <contacto>943558106</contacto>
+    </cliente>
+
+    <cliente>
+        <nome>Tomás</nome>    
+        <apelido>Cajamba</apelido>
+        <contacto>943558106</contacto>
+    </cliente>
+
+    <cliente>
+     <nome>Cajamba</nome>    
+     <apelido>Cajamba</apelido>
+        <contacto>943558106</contacto>
+    </cliente>
+
+     <cliente>
+     <nome>Cajamba</nome>    
+     <apelido>Tomás</apelido>
+        <contacto>943558106</contacto>
+    </cliente>
+
+     <cliente>
+     <nome>Cajamba1</nome>    
+     <apelido>Cajamba1</apelido>
+        <contacto>943558106</contacto>
+    </cliente>
+</lista>
